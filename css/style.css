@@ -136,8 +136,7 @@
   fill: #fce38a;
 }
 
-.menu__link-icon,
-.menu__link:hover .menu__link-icon {
+.menu__link-icon:hover {
   fill: #fce38a;
 }
 
